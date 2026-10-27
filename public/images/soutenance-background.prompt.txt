@@ -1,0 +1,4 @@
+Tool: built-in image_gen. Input: user-attached thesis defense poster.
+Output: public/images/soutenance-background.png
+
+Edit target: the attached French thesis defense poster. Produce its EMPTY BACKGROUND TEMPLATE ONLY, portrait 1024x1536 with precisely the same composition. Preserve the campus courtyard photo covering the top 42%, cloudy sky, cream white flowing lower background, fine orange sweeping arcs on right and left, and technology laptop/hands/network photo fading into bottom right 20%. Remove ALL text, ALL logos, ALL icons, ALL title handwriting, ALL portrait/person photo and its frame, ALL jury panels and department badges and nameplate. The center and lower main content area must be empty warm white for editable HTML text overlays. The top sky must be clear for logo/title overlay. Preserve the campus architecture as closely as possible. No new text, no watermark. This is an application background asset, not a completed poster.
